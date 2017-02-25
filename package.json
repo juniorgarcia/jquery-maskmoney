@@ -14,6 +14,7 @@
     "email": "diego@plentz.org",
     "url": "http://plentz.org"
   },
+  "main": "dist/jquery.maskMoney.min.js",
   "dependencies": {
     "jquery": "latest"
   },
